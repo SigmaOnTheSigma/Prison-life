@@ -1,0 +1,6 @@
+local player = game.Players.LocalPlayer
+local M9 = player.Backpack.M9
+
+M9.Name = "Ak-47"
+M9.ToolTip = "Credits to Sans"
+M9.CanBeDropped = true
