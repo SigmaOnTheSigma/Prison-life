@@ -1,5 +1,5 @@
 local player = game.Players.LocalPlayer
-local ak = player.Backpack["Ak-47"]
+local ak = player.Backpack["AK-47"]
 
 ak.Name = "nil"
 ak.ToolTip = "Lets shoot some fuckers!"
